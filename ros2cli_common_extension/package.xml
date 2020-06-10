@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros2cli_common_extension</name>
+  <version></version>
+  <description>Meta package for ros2cli related packages</description>
+  <maintainer email="karsten@openrobotics.org">Karsten Knese</maintainer>
+  <maintainer email="ros-tooling@googlegroups.com">ROS Tooling Working Group</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>ros2action</exec_depend>
+  <exec_depend>ros2cli</exec_depend>
+  <exec_depend>ros2component</exec_depend>
+  <exec_depend>ros2doctor</exec_depend>
+  <exec_depend>ros2interface</exec_depend>
+  <exec_depend>ros2lifecycle</exec_depend>
+  <exec_depend>ros2lifecycle_test_fixtures</exec_depend>
+  <exec_depend>ros2multicast</exec_depend>
+  <exec_depend>ros2node</exec_depend>
+  <exec_depend>ros2param</exec_depend>
+  <exec_depend>ros2pkg</exec_depend>
+  <exec_depend>ros2run</exec_depend>
+  <exec_depend>ros2service</exec_depend>
+  <exec_depend>ros2topic</exec_depend>
+
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
