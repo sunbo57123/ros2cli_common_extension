@@ -23,6 +23,9 @@
   <exec_depend>ros2run</exec_depend>
   <exec_depend>ros2service</exec_depend>
   <exec_depend>ros2topic</exec_depend>
+  <exec_depend>sros2</exec_depend>
+  <exec_depend>ros2launch</exec_depend>
+
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
