@@ -1,0 +1,6 @@
+[submodule "sros2"]
+	path = sros2
+	url = https://github.com/ros2/sros2
+[submodule "ros2launch"]
+	path = ros2launch
+	url = https://github.com/ros2/launch_ros
