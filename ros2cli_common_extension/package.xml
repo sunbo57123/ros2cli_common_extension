@@ -30,6 +30,7 @@
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
   <test_depend>urdfdom_headers</test_depend>
+  <test_depend>test_osrf_testing_tools_cpp</test_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
